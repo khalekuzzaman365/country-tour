@@ -1,0 +1,10 @@
+.country-container{
+ display:grid;
+ grid-template-columns: repeat(3,2fr);
+ gap: 10px;
+ border-radius: 5px solid red;
+}
+.visited{
+ background-color: chartreuse;
+               
+}
